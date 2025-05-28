@@ -12,7 +12,7 @@ Elle illustre comment l’IA explore un **espace d’états** à partir d’un �
 ✅ Interface visuelle interactive (clic sur les tuiles pour créer un état)  
 ✅ Algorithmes de recherche IA intégrés : **A\***, **BFS**, **DFS**  
 ✅ Affichage animé de la résolution  
-✅ Déploiement facile sur **Vercel** ou exécution locale avec `npm run dev`  
+✅ Déploiement facile sur **Render** ou exécution locale avec `npm run dev`  
 ✅ Interface responsive et professionnelle (Tailwind CSS)
 
 ---
@@ -20,7 +20,7 @@ Elle illustre comment l’IA explore un **espace d’états** à partir d’un �
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/ton-compte/solveur-visuel-ia.git
+git clone https://github.com/EJM0101/solveur-visuel-ia.git
 cd solveur-visuel-ia
 npm install
 npm run dev
@@ -125,7 +125,7 @@ Ce projet est conçu pour :
 
 ## 🚀 Déploiement
 
-Déployable directement sur [https://vercel.com](https://vercel.com)
+Déployable directement sur [https://render.com](https://render.com)
 
 ---
 
